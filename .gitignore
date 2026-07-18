@@ -1,0 +1,22 @@
+# NitroStack
+.nitrostudio/
+
+# Dependencies
+node_modules/
+src/widgets/node_modules/
+
+# Next.js
+.next/
+src/widgets/.next/
+
+# Build output
+dist/
+out/
+src/widgets/out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
