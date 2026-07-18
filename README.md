@@ -1,9 +1,9 @@
 QuadCore presents 
 
--Arav D A 
--Devang S R 
--Nandagopal A 
--Dhananjayan Sreeraj 
+- Arav D A 
+- Devang S R 
+- Nandagopal A 
+- Dhananjayan Sreeraj 
 
 # 🏭 Forge-OS
 
@@ -163,15 +163,3 @@ npm run dev
 - Incident Management
 
 ---
-
-# 👥 Team
-
-**Forge-OS**
-
-Built for the **NitroStack Agentic AI Hackathon** by Team QuadCore.
-
----
-
-# 📄 License
-
-MIT License
